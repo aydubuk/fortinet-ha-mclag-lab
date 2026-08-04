@@ -134,8 +134,8 @@ During the project, several real-world issues were encountered and resolved:
 
 Detailed Turkish and English engineering reports are included in this repository:
 
-- `Fortinet_HA_Report_TR.pdf`
-- `Fortinet_HA_Report_EN.pdf`
+- [Engineering Report (Turkish)](Fortinet_HA_Report_TR.pdf)
+- [Engineering Report (English)](Fortinet_HA_Report_EN.pdf)
 
 ---
 
